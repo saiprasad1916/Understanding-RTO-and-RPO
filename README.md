@@ -117,8 +117,7 @@ To have a Low RTO, you need servers standing by.
 ------------------------------
 ## Key Takeaway
 RPO and RTO are business decisions, not just IT decisions.
-You must ask: "Is the cost of 1 hour of downtime ($10,000 in lost sales) more or less than the cost of a Warm Standby setup ($2,000/month)?"
-Would you like a calculator template to help determine which tier makes the most financial sense for your project?
+
 
 
 
